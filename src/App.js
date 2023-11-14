@@ -1,6 +1,6 @@
 import React from "react";
-import Setup from "./tutorial/8-useContext/setup/1-context-api";
-import Final from "./tutorial/8-useContext/final/1-context-api";
+import Setup from "./tutorial/10-prop-types/setup/index";
+import Final from "./tutorial/9-custom-hooks/final/1-fetch-example";
 
 function App() {
   return (
